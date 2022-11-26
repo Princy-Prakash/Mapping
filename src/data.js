@@ -1,0 +1,26 @@
+export const prod = [
+    {
+        id:1,
+        name:'princy',
+        img:'https://cdn.pixabay.com/photo/2017/05/30/08/31/heart-2356169_1280.png',
+        desc:'jshfjdjhfgjhdgfvjhdfjdjfdjfjk'
+    },
+    {
+        id:2,
+        name:'ddd',
+        img:'https://img.freepik.com/free-vector/red-love-heart-star-neon-frame-design_1017-29817.jpg?w=2000',
+        desc:'ddddddddddddddddd'
+    },
+    {
+        id:3,
+        name:'sfff',
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDXp-yVyvzNY7MBRuTnj8TkfEIDBI0C7ogXE7W-xVt_Vl1HRPsHhjcOfD3pNCnzQFj0g&usqp=CAU',
+        desc:'dkfjkfdhgdjfkdjkfhdfhjfhjk'
+    },
+    {
+        id:4,
+        name:'rg',
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcl59do2uJNVuePbruY4tbkQTw3b6RKCCTfi3BPARLqajmLadYGnyik7moc75_ByFlu8&usqp=CAU',
+        desc:'wsfddhfiuyufyyrj'
+    },
+]
